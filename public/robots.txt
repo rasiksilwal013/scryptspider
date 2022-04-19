@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.scryptspider.com
+
+# Sitemaps
+Sitemap: https://www.scryptspider.com/sitemap.xml
